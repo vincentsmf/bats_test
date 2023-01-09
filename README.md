@@ -1,1 +1,2 @@
-# bats_test
+# bats
+test bash bats
